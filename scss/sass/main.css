@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-header {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+  flex-direction: column;
+}
+.main-header h1 {
+  color: rgb(0, 187, 255);
+  font-size: 1rem;
+}
+.main-header p {
+  color: rgb(0, 187, 255);
+  font-size: 0.5rem;
+}/*# sourceMappingURL=main.css.map */
